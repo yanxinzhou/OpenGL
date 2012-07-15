@@ -1,5 +1,5 @@
 /*
-*  Paluka_Kondo_Final_Project.cpp
+*  Paluka-Infinite_Scene.cpp
 *	
 *  Moving through a Scene
 *
@@ -9,7 +9,7 @@
 *	
 */
 
-#include "Paluka_Kondo_Final_Project.h"
+#include "Paluka-Infinite_Scene.h"
 
 //True for curve in path, false for straight path
 bool FLAG_CURVE = true; 

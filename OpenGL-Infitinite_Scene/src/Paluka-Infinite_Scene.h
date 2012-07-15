@@ -1,5 +1,5 @@
 /*
-*  Paluka_Kondo_Final_Project.h
+*  Paluka-Infinite_Scene.h
 *
 *  Erik Paluka
 *  December, 2011
